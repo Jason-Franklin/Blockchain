@@ -1,2 +1,2 @@
-# crypto
-Create a new crypto project
+# Blockchain
+Create a new blockchain project
