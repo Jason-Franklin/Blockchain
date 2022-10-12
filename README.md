@@ -1,2 +1,2 @@
 # Blockchain
-Create a new blockchain project
+Dapps, smart contracts, etc.
